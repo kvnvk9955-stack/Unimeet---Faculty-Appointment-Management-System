@@ -196,3 +196,7 @@ Open a Pull Request
 ##  Author
 
 Developed by KVN Vamsi Krishna
+
+## License
+
+This project is for educational purposes as part of an academic course requirement.
