@@ -1,0 +1,10 @@
+# ─────────────────────────────────────────────
+# Unimeet Frontend Environment Variables
+# Copy this file to .env and fill in real values
+# ─────────────────────────────────────────────
+
+# Backend API URL (CRITICAL: Set this to your Railway deployment URL in production)
+# Examples:
+#   Development: http://localhost:5000/api
+#   Production:  https://your-app.up.railway.app/api
+VITE_API_URL=http://localhost:5000/api
